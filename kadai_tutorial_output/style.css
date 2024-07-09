@@ -13,6 +13,12 @@ body {
  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
 }
 
+/* ヘッダー */
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* ナビゲーションのレイアウト */
 #nav-pc {
  font-size: 14px;
